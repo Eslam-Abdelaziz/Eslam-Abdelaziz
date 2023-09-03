@@ -8,26 +8,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=42cef5&vCenter=true&size=22"></a>
 </p> 
 
-<p align="center">
- <a href="https://www.linkedin.com/in/eslam-abdulaziz-130b3922b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eslam"/>
- </a>
-  <a href="https://www.facebook.com/el.fohlr/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Eslam"  />
- </a> 
- <a href="https://www.instagram.com/eslam_a_momeh/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Eslam" />
- </a> 
-</p>
 <br />
 <br/>
 
-# about me
-<p>
-  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
- 
-  
-</p>
+
 
  - 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
@@ -37,9 +21,19 @@
 
 
 ### Connect with Me :
+# Connect with me
+<p align="center">
+ <a href="https://www.linkedin.com/in/eslam-abdulaziz-130b3922b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eslam"/>
+ </a>
+  <a href="https://www.facebook.com/el.fohlr/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Eslam"  />
+ </a> 
+ <a href="https://t.me/islam_momeh" target="_blank">
+  <img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
+ </a> 
+</p>
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
