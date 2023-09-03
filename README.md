@@ -40,7 +40,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=white)&nbsp;
 
-![.NET](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net&logoColor=339933)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net&logoColor=563D7C)&nbsp;
 
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
