@@ -20,8 +20,7 @@
 - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
 
 
-### Connect with Me :
-# Connect with me
+## Connect with me
 <p align="center">
  <a href="https://www.linkedin.com/in/eslam-abdulaziz-130b3922b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eslam"/>
@@ -30,7 +29,7 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Eslam"  />
  </a> 
  <a href="https://t.me/islam_momeh" target="_blank">
-  <img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Eslam-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
  </a> 
 </p>
 
