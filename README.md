@@ -17,8 +17,8 @@
 - 🏢 I'm a Software Engineer at information technology institute. <br/>
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills. <br/>
 - 💬 Ask me about my experience with JavaScript, Angular, and ASP.NET, or anything related to web development and .NET technologies. <br/>
-- 📧 Reach me anytime: eslammomeh015@gmail.com<br/>
-- 👨‍💻 Check out my portfolio at https://eslam-abdelaziz.netlify.app/ to see some of the projects I've worked on. <br/> <br/><br/>
+- 👨‍💻 Check out my portfolio at https://eslam-abdelaziz.netlify.app/ to see some of the projects I've worked on. <br/>
+- 📧 Reach me anytime: eslammomeh015@gmail.com <br/><br/><br/>
 
 ### Connect with me
 <p align="center">
