@@ -17,7 +17,9 @@
 - 💬 Ask me about my experience with JavaScript, Angular, and ASP.NET, or anything related to web development and .NET technologies. <br/>
 - 👨‍💻 Check out my portfolio at https://eslam-abdelaziz.netlify.app/ to see some of the projects I've worked on. <br/>
 
-
+<p>
+  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
+</p>
 
 ## Connect with me
 <p align="center">
