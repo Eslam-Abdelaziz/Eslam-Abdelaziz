@@ -22,6 +22,7 @@
 <br />
 <br/>
 
+#about me
 <hr>
 <p>
   <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
