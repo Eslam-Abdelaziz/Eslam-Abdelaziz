@@ -1,7 +1,3 @@
-
-<img align="right" width="350" src="programmer.gif" alt="Coding gif" />
-
-
 <h3 align="center">
   Welcome to Eslam Abdelaziz's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -22,9 +18,13 @@
  <a href="https://www.instagram.com/eslam_a_momeh/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Eslam" />
  </a> 
- 
 </p>
 <br />
+
+
+<p>
+  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
+</p>
 
 - 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
