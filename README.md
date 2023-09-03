@@ -20,7 +20,7 @@
 - 👨‍💻 Check out my portfolio at https://eslam-abdelaziz.netlify.app/ to see some of the projects I've worked on. <br/>
 - 📧 Reach me anytime: eslammomeh015@gmail.com <br/><br/><br/>
 
-### Connect with me:
+### Connect with me :
 <p>
  <a href="https://www.linkedin.com/in/eslam-abdulaziz-130b3922b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eslam"/>
