@@ -13,7 +13,7 @@
 </p> 
 
 <p align="center">
- <a href="www.linkedin.com/in/eslam-abdulaziz-130b3922b" target="_blank">
+ <a href="https://www.linkedin.com/in/eslam-abdulaziz-130b3922b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eslam"/>
  </a>
   <a href="https://www.facebook.com/el.fohlr/" target="_blank">
