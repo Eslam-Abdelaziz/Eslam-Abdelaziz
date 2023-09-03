@@ -11,9 +11,10 @@
 <br />
 <br/>
 
-
-
- - 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
+<p>
+  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
+</p>
+- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
@@ -29,7 +30,7 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Eslam"  />
  </a> 
  <a href="https://t.me/islam_momeh" target="_blank">
-  <img src="https://img.shields.io/badge/-Eslam-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
  </a> 
 </p>
 
