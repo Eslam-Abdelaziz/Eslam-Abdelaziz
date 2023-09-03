@@ -41,6 +41,8 @@
 ![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=white)&nbsp;
 
 ![.NET](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net&logoColor=563D7C)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular&logoColor=563D7C)&nbsp;
+https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
