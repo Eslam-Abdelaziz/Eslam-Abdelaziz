@@ -11,7 +11,7 @@
 <br />
 <br/>
 <p>
-  <img align="right" width="300" src="programmer.gif" alt="Coding gif" />
+  <img align="right" width="300" style="margin-left=50px" src="programmer.gif" alt="Coding gif" />
 </p>
 
 - 🏢 I'm a Software Engineer at information technology institute. <br/>
