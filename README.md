@@ -11,7 +11,7 @@
 <br />
 <br/>
 <p>
-  <img align="right" width="300" style="margin-left:2rem;" src="programmer.gif" alt="Coding gif" />
+  <img align="right" width="300" src="programmer.gif" alt="Coding gif" />
 </p>
 
 - 🏢 I'm a Software Engineer at information technology institute. <br/>
@@ -20,7 +20,7 @@
 - 👨‍💻 Check out my portfolio at https://eslam-abdelaziz.netlify.app/ to see some of the projects I've worked on. <br/>
 
 
-
+<br/>
 ## Connect with me
 <p align="center">
  <a href="https://www.linkedin.com/in/eslam-abdulaziz-130b3922b/" target="_blank">
