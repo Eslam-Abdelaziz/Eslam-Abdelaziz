@@ -49,20 +49,22 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eslam405&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eslam405&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=Eslam405&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Eslam405&style=for-the-badge">
 </a>
+
+<br/>
+<hr/>
+<br/>
 
 <p align="center">
   <a href="https://github.com/Eslam405">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eslam405&theme=radical&border=7F3FBF&background=0D1117" alt="Eslam's GitHub streak"/>
   </a>
 </p>
-<br/>
-<hr/>
-<br/>
+
 <p align="center">
   <a href="https://github.com/alsiam">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
