@@ -49,10 +49,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eslam405&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eslam-Abdelaziz&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=Eslam405&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Eslam405&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=Eslam-Abdelaziz&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Eslam-Abdelaziz&style=for-the-badge">
 </a>
 
 <br/>
@@ -60,21 +60,21 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Eslam405">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eslam405&theme=radical&border=7F3FBF&background=0D1117" alt="Eslam's GitHub streak"/>
+  <a href="https://github.com/Eslam-Abdelaziz">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eslam-Abdelaziz&theme=radical&border=7F3FBF&background=0D1117" alt="Eslam's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Eslam405">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eslam405&theme=radical" alt="Eslam's GitHub Contribution"/>
+  <a href="https://github.com/Eslam-Abdelaziz">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eslam-Abdelaziz&theme=radical" alt="Eslam's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-   <a href="https://github.com/Eslam405"> <img alt="Eslam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Eslam405&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Eslam405">
-    <img alt="Eslam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Eslam405&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/> 
+   <a href="https://github.com/Eslam-Abdelaziz"> <img alt="Eslam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Eslam-Abdelaziz&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Eslam-Abdelaziz">
+    <img alt="Eslam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Eslam-Abdelaziz&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/> 
   </a>
   <br/>
 </a>
