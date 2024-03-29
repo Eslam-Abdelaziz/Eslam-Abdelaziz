@@ -18,7 +18,7 @@
 - 👨‍💻 As a CS student, I'm learning and exploring new technologies to improve my skills. <br/>
 - 💬 Ask me about my experience with JavaScript, Angular, MS SQl server and ASP.NET, or anything related to web development and .NET technologies. <br/>
 - 👨‍💻 Check out my portfolio at https://eslam-abdelaziz.netlify.app/ to see some of the projects I've worked on. <br/>
-- 📧 Reach me anytime: eslammomeh015@gmail.com <br/><br/><br/>
+- 📧 Reach me anytime: eslam.abdelaziz.momeh@gmail.com <br/><br/><br/>
 
 ### Connect with me :
 <p>
